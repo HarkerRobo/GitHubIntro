@@ -2,7 +2,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 
 /**
- * 
+ * Testing that I can commit
  */
 
 public class CommitToMeFirst
